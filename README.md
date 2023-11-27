@@ -11,4 +11,4 @@ To use the provided script you can either run the code directly though your IDE 
 ## Contributing
 Contributions are welcome whether it is for small bug fixes or new pieces of major functionality. To contribute changes, you should first fork the upstream repository to your own GitHub account. You can then add a new remote for `upstream` and rebase any changes you make and keep up-to-date with the upstream.
 
-`git remote add upstream https://github.com/surajkumar/Oracle-DB-Compile-Invalid-Objects.git`
+`git remote add upstream https://github.com/surajkumar/oracle-db-compile-invalid-objects.git`
